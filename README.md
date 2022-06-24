@@ -1,3 +1,6 @@
+## Seja Bem-vindo(a)😁
+
+
 <div>
   <a href="https://github.com/Crave23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crave23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
